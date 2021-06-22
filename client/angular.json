@@ -138,6 +138,7 @@
   },
   "defaultProject": "clinet",
   "cli": {
-    "analytics": "7ae9695d-2e85-4015-aa5e-4955a1b98882"
+    "analytics": "7ae9695d-2e85-4015-aa5e-4955a1b98882",
+    "defaultCollection": "@ngrx/schematics"
   }
 }
